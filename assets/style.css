@@ -266,27 +266,27 @@ main .container .left .profile{
     z-index: 2;
 }
 .middle .stories .story:nth-child(1){
-    background: url('../images/s4.jpg')
+    background: url('s4.jpg')
     no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(2){
-    background: url('../images/fff1.jpg')
+    background: url('fff1.jpg')
     no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(3){
-    background: url('../images/fff2.jpg')
+    background: url('fff2.jpg')
     no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(4){
-    background: url('../images/ff5.jpg')
+    background: url('ff5.jpg')
     no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(5){
-    background: url('../images/s6.jpg')
+    background: url('s6.jpg')
     no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(6){
-    background: url('../images/ff3.jpg')
+    background: url('ff3.jpg')
     no-repeat center center/cover;
 }
 .middle .story .profile-photo{
